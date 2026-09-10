@@ -79,16 +79,15 @@ cj = {
 
 ---
 
-### 🚀 Featured Project
+### 🌐 Portfolio
 
 <div align="center">
 
-| 🏀 NBA Player Performance Analysis |
-|:---:|
-| Live interactive dashboard analyzing 2022-23 NBA season stats |
-| Built with **Python · Pandas · Plotly · Streamlit** |
-| Explores scoring efficiency, minutes-played correlation & team rankings |
-| [![Live Demo](https://img.shields.io/badge/🔴_Live_Demo-FF4B4B?style=for-the-badge)](https://nba-analysis-4a728zsuqe2gcj7e9qqnuh.streamlit.app/) [![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CarlosJamesDeLeon/nba-analysis) |
+🚧 **Portfolio website coming soon!** 🚧
+
+*A curated collection of my projects, skills, and journey as an aspiring data analyst.*
+
+[![Portfolio](https://img.shields.io/badge/🔗_Coming_Soon-555555?style=for-the-badge)](#)
 
 </div>
 
