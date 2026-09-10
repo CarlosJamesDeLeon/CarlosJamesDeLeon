@@ -83,22 +83,12 @@ cj = {
 
 <div align="center">
 
-[![NBA Analysis Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlosJamesDeLeon&repo=nba-analysis&theme=tokyonight&hide_border=true)](https://github.com/CarlosJamesDeLeon/nba-analysis)
-
-**🏀 [NBA Player Performance Analysis](https://nba-analysis-4a728zsuqe2gcj7e9qqnuh.streamlit.app/)** — Live interactive dashboard analyzing 2022-23 NBA season stats with Plotly + Streamlit. Explores scoring efficiency, minutes played correlation, and team rankings.
-
-[![Live Demo](https://img.shields.io/badge/🔴_Live_Demo-FF4B4B?style=for-the-badge)](https://nba-analysis-4a728zsuqe2gcj7e9qqnuh.streamlit.app/)
-[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/CarlosJamesDeLeon/nba-analysis)
-
-</div>
-
----
-
-### 📈 Contribution Activity
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CarlosJamesDeLeon&theme=tokyo-night&hide_border=true&area=true)](https://github.com/CarlosJamesDeLeon)
+| 🏀 NBA Player Performance Analysis |
+|:---:|
+| Live interactive dashboard analyzing 2022-23 NBA season stats |
+| Built with **Python · Pandas · Plotly · Streamlit** |
+| Explores scoring efficiency, minutes-played correlation & team rankings |
+| [![Live Demo](https://img.shields.io/badge/🔴_Live_Demo-FF4B4B?style=for-the-badge)](https://nba-analysis-4a728zsuqe2gcj7e9qqnuh.streamlit.app/) [![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CarlosJamesDeLeon/nba-analysis) |
 
 </div>
 
