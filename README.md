@@ -2,7 +2,7 @@
 
 # 改善 — Carlos James De Leon
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Third-Year+CS+Student+%F0%9F%8E%93;Data+Analyst+%7C+Full+Stack+Developer;Building+things+that+matter+%F0%9F%9A%80;Kaizen+%E2%80%94+Always+improving+%E2%80%A2%E2%80%A2%E2%80%A2)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Aspiring+Data+Analyst+%F0%9F%93%8A;Python+%7C+Streamlit+%7C+Plotly;Building+things+that+matter+%F0%9F%9A%80;Kaizen+%E2%80%94+Always+improving+%E2%80%A2%E2%80%A2%E2%80%A2)](https://git.io/typing-svg)
 
 [![GitHub followers](https://img.shields.io/github/followers/CarlosJamesDeLeon?label=Followers&style=social)](https://github.com/CarlosJamesDeLeon)
 &nbsp;
@@ -19,7 +19,7 @@ cj = {
     "name":       "Carlos James De Leon",
     "alias":      "cJ",
     "philosophy": "改善 (Kaizen) — 1% better every day",
-    "studying":   "Computer Science, Year 3",
+    "studying":   "Aspiring Data Analyst",
     "interests":  ["Data Analytics", "Full Stack Dev", "UI/UX"],
     "currently":  "Building a data analytics portfolio 📊",
     "ask_me":     "Python, React, TypeScript, Java",
@@ -94,15 +94,11 @@ cj = {
 
 ---
 
-### 🐍 Contribution Snake
+### 📈 Contribution Activity
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CarlosJamesDeLeon/CarlosJamesDeLeon/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CarlosJamesDeLeon/CarlosJamesDeLeon/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CarlosJamesDeLeon/CarlosJamesDeLeon/output/github-contribution-grid-snake.svg">
-</picture>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CarlosJamesDeLeon&theme=tokyo-night&hide_border=true&area=true)](https://github.com/CarlosJamesDeLeon)
 
 </div>
 
